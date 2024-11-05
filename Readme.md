@@ -9,7 +9,7 @@ This project is a Quiz application where users can take quizzes across different
 - `main.py`: This is the main application file that creates the GUI for the quiz and handles user interactions.
 - `questions.db`: The SQLite database file that stores questions categorized into different subjects.
 - `readDB.py`: This file reads from the SQLite database and displays the questions and answers for each category.
-- `Readme.md`: Documentation for the project.
+- `README.md`: Documentation for the project.
 
 ## Setup Instructions
 1. **Install Dependencies**: Ensure you have Python installed along with the `sqlite3` and `tkinter` libraries. These libraries come with Python by default.
